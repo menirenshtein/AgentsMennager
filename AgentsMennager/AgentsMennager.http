@@ -1,0 +1,6 @@
+@AgentsMennager_HostAddress = http://localhost:5098
+
+GET {{AgentsMennager_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
